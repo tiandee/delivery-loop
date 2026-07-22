@@ -7,7 +7,7 @@ It helps an agent select an appropriate verification mode, preserve authorizatio
 ## Install
 
 ```bash
-npx skills add tiandee/delivery-loop -g
+npx skills add https://github.com/tiandee/delivery-loop --skill delivery-loop -g
 ```
 
 ## Use
