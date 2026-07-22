@@ -1,0 +1,4 @@
+interface:
+  display_name: "Delivery Loop"
+  short_description: "Ship changes through verified end-to-end release loops"
+  default_prompt: "Use $delivery-loop to implement, verify, release, and validate the real user installation path."
